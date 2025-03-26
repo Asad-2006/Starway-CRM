@@ -20,4 +20,6 @@ Backend: Node.js & Express.js
 
 Database: MongoDB
 
+UI - Material UI & Tailwind CSS 
+
 Authentication: Role-based access control
