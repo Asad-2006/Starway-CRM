@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route, Outlet } from "react-router-dom";
 import NavBar from "../Components Admin/NavBar";
 import Home from "../Admin Pages/Home";
 import Users from "../Admin Pages/Users";
-import CreateUser from "../Admin Pages/CreateUser";
+import CreateUser from "../Admin Pages/Createuser";
 import NewLeads from "../Admin Pages/NewLeads";
 import ClosedLeads from "../Admin Pages/ClosedLeads";
 import CreateProject from "../Admin Pages/CreateProject";
